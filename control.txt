@@ -1,3 +1,1 @@
-------test------
-key = None
-license = None
+94824A0767B3439086A57DE80527CF2A
