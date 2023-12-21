@@ -1,1 +1,3 @@
-yes
+------test------
+key = None
+license = None
